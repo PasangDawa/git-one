@@ -3,4 +3,5 @@ body {
 	padding: 2px;
 	margin: 1px;
 	display: flex;
+	align-items: flex-start;
 }
